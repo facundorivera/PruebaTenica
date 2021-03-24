@@ -1,0 +1,15 @@
+C:\Users\Facu\source\repos\WebApi\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Facu\source\repos\WebApi\Negocio\bin\Debug\Negocio.dll
+C:\Users\Facu\source\repos\WebApi\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Facu\source\repos\WebApi\Negocio\bin\Debug\Datos.dll
+C:\Users\Facu\source\repos\WebApi\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Facu\source\repos\WebApi\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Facu\source\repos\WebApi\Negocio\bin\Debug\Datos.pdb
+C:\Users\Facu\source\repos\WebApi\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Facu\source\repos\WebApi\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Facu\source\repos\WebApi\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Facu\source\repos\WebApi\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Facu\source\repos\WebApi\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\WebApi\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Facu\source\repos\WebApi\Negocio\obj\Debug\Negocio.dll
+C:\Users\Facu\source\repos\WebApi\Negocio\obj\Debug\Negocio.pdb
